@@ -1,0 +1,27 @@
+/* 
+    Document   : landing
+    Created on : 20 Apr, 2012, 9:52:45 AM
+    Author     : abhra
+    Description:
+        Purpose of the stylesheet follows.
+*/
+div#welcome > h2{
+    text-align: left;
+}
+div#sitelinks{
+    text-align: center;
+}
+div#sitelinks > a{
+    text-align: center;
+    min-height: 100px;
+}
+a#login{
+    background-color: darkkhaki;
+}
+a#enter{
+    background-color: darkseagreen;
+}
+a#feedback{
+    background-color: darkturquoise;
+}
+
